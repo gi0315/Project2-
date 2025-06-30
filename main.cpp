@@ -1,3 +1,6 @@
+//Gisselle Sagastume 
+//335 project 2 
+
 #include "HashTable.h"
 #include <iostream>
 #include <fstream>
