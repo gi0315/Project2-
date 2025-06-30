@@ -1,3 +1,5 @@
+//Gisselle Sagastume 
+//335 project 2 
 #ifndef HASHTABLE_H
 #define HASHTABLE_H
 
